@@ -1,0 +1,12 @@
+h1 {
+  color: 15px;
+}
+
+.navbar {
+  margin-bottom: 40px;
+}
+
+#myMap {
+  height: 400px;
+  background-color: red;
+}
